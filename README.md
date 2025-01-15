@@ -1,5 +1,3 @@
-Here is the entire content as a single file with proper formatting:
-
 ```markdown
 # First LKM (Loadable Kernel Module)
 
